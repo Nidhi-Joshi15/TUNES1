@@ -1,0 +1,6 @@
+framework module Pods_TUNESDEMOVIP {
+  umbrella header "Pods-TUNESDEMOVIP-umbrella.h"
+
+  export *
+  module * { export * }
+}
